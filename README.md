@@ -3,6 +3,8 @@
 # Play it here
 https://annietaylorchen.github.io/WaspGetsPresents/
 
+Press the SPACE key to keep your wasp flying!
+
 Pass the bars you will get 1 points. 
 Get a present you will get 3 points.
 Bump into bar, game over. 
