@@ -1,5 +1,16 @@
 # Flappy Wasp Game
 
+# Play it here
+https://annietaylorchen.github.io/WaspGetsPresents/
+
+Pass the bars you will get 1 points. 
+Get a present you will get 3 points.
+Bump into bar, game over. 
+
+Good luck! 
+
+---
+
 This is a guide for making Flappy Wasp Game. Just follow this guide and at the end you will have created a game!
 
 ---
